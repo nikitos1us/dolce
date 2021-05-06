@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+
+    font-family: "Open Sans", sans-serif;
+    background: rgb(139, 188, 208);
+    background: linear-gradient(176deg, rgb(250, 184, 154) 0%, rgba(250, 0, 128, 0.7777485994397759) 100%);
+}
+
+.text-home {
+    color: #ef8f6f;
+}
+
+.content {
+    min-height: 88vh;
+    flex-grow: 1;
+}
+
+

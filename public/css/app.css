@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background: #8bbcd0;
+  background: linear-gradient(176deg, #fab89a 0%, rgba(250, 0, 128, 0.7777485994) 100%);
+}
+
+.text-home {
+  color: #ef8f6f;
+}
+
+.content {
+  min-height: 88vh;
+  flex-grow: 1;
+}
